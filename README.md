@@ -1,12 +1,6 @@
-<p align="center">
-  <img src="file_000000002b5c7207859176185fb70346.png" width="400">
-</p>
-
-# Journal-gurufin-testnetS2
-My Journey with gurufin testnet S2
+![Logo](file_000000002b5c7207859176185fb70346.png)
 
 # 🪙 Gurufin Season 2 — Personal Journey Journal
-
 > Dokumentasi perjalanan saya di Gurufin Season 2 | My Web3 journey on Gurufin Season 2
 
 ![Gurufin](https://img.shields.io/badge/Gurufin-Season%202-gold?style=for-the-badge&logo=bitcoin)
@@ -14,6 +8,7 @@ My Journey with gurufin testnet S2
 ![Network](https://img.shields.io/badge/Network-Web3-blueviolet?style=for-the-badge)
 ![License](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey?style=for-the-badge)
 
+> ⭐ Kalau repo ini helpful, kasih Star ya! Sangat berarti untuk saya 🙏
 ---
 
 ## 👤 About Me
@@ -24,6 +19,7 @@ Aktif di grurfin sejak Season 1 dan terus berkembang di Season 2.
 
 - 🐦 Twitter/X: [@Jalaluddin9922](https://x.com/Jalaluddin9922)
 - 🌐 GitHub: [Limit99](https://github.com/Limit99)
+- 🔗 Discord: [jalaluddin8620](discord.gg/jalaluddin8620)
 
 ---
 
