@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="file_000000002b5c7207859176185fb70346.png" width="400">
+</p>
+
 # Journal-gurufin-testnetS2
 My Journey with gurufin testnet S2
 
@@ -105,7 +109,7 @@ Note: G-Points digunakan untuk naik rank Leaderboard atau beli ticket raffle min
 | Resource | Link |
 |----------|------|
 | 🌐 Gurufin Website | [gurufin.com](https://gurufin.com) |
-| Discord | [Gurufin](discord.gg/gurufin) |
+| 🔗 Discord | [Gurufin](discord.gg/gurufin) |
 | 🐦 Twitter/X | [@GurufinHQ](https://x.com/GurufinHQ) |
 | 📱 App Store | [Download iOS](https://guru-wallet.onelink.me/gc8V/a3uehijq) |
 | 📱 Play Store | [Download Android](https://guru-wallet.onelink.me/gc8V/a3uehijq) |
